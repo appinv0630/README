@@ -71,7 +71,6 @@
 ## 6. Level Design
 플레이어의 최종 목표는 다음과 같다.
 
-![Map](images/map.png)
 1. 연구시설 내부를 탐색한다.
 2. 맵 내부에 등장하는 적을 처치한다.
 3. 보안 카드키를 획득한다.
@@ -82,7 +81,6 @@
 ## 7. UI Design
 ---
 
-![UI](images/ui_mockup.png)
 ## 4. Core Gameplay Loop
 
 ## 8. Development Plan
