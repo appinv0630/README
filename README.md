@@ -146,4 +146,7 @@
 - 달리기
 - 무기 조준 및 발사
 
+## 7. 게임 구현 예상 이미지
+<img width="1536" height="1024" alt="ChatGPT이미지" src="https://github.com/user-attachments/assets/855adf8d-f3a9-4470-bc65-20404080c3ab" />
 
+위 예상 이미지는 ChatGPT로 생성한 이미지입니다.
