@@ -10,7 +10,7 @@
 | 장르 | FPS / Action |
 | 게임 제목 | **Where do we Go?** |
 | 장르 | FPS / Action / Survival |
-| 개발 엔진 | Unreal Engine 5.8 |
+| 개발 엔진 | Unreal Engine 5.8.3 |
 | 플랫폼 | PC / 데스크탑 및 노트북 등 |
 | 엔진 | Unreal Engine / 언리얼 엔진 |
 | 플레이 방식 | Single Player / 싱글 플레이어 (단독) |
